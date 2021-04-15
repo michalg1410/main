@@ -12,7 +12,7 @@ n=4
 
 def wezly_tab(x_i, n):
   
-
+  
 
 # punkt3
 def tab_geo(x_p, x_k, n):
